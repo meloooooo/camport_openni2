@@ -20,13 +20,13 @@ Package-List:
  openni2-utils deb utils optional arch=any
 Checksums-Sha1:
  94463b19173dac42cec08fdc41a020a6f390bf7b 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- 004553907cb1b9f32228bf9a6704a913f23e0ba4 28716 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ ebdfb4734560f0e2b892c0c550ccebd390223d8d 28896 openni2_2.2.0.33+dfsg-4.debian.tar.xz
 Checksums-Sha256:
  abc17f5e30d6799200c69a52d34aefaef4fd567be7921e0cb68cae353ac4495a 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- 478a136e6fe9ba2836b0e9054436d29eb5cb8a146bea6278eb38cd900e436e7b 28716 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ fab7b137203924045d1daedc09d2dbfdd4ecc5792f07d8cd03d741f444e3d32e 28896 openni2_2.2.0.33+dfsg-4.debian.tar.xz
 Files:
  3799d7e5bf5cedcb61b04da79544d9e8 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- e654dde68e24ec53dc7547210ece6103 28716 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ 14a63c16d4cfcd873f7e30299e4c63c4 28896 openni2_2.2.0.33+dfsg-4.debian.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
