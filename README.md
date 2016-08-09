@@ -1,9 +1,18 @@
 
-binary --- prebuild deb package under ubuntu 14.04 
-source --- source code of openni2 which support percipio depth sensor
+1. Install Package
+
+Linux 
+ 
+$dpkg -i libopenni2-0_2.2.0.33+dfsg-4_amd64.deb
+$dpkg -i libopenni2-dev_2.2.0.33+dfsg-4_amd64.deb
+
+ARM
+
+$dpkg -i libopenni2-0_2.2.0.33+dfsg-4_armhf.deb
+$dpkg -i libopenni2-dev_2.2.0.33+dfsg-4_armhf.deb
 
 
-Build package
+2. Build package (Optional)
 
 ------------------------------------------------
 cd source
@@ -12,15 +21,8 @@ cd openni2-2.2.0.33+dfsg
 dpkg-buildpackage -j1
 
 ------------------------------------------------
-Note: make sure to use '-j1' when building in ARM platform
-
-
-
-Install Package
-
-------------------------------------------------
-
-dpkg -i libopenni2-0_2.2.0.33+dfsg-4_amd64.deb
-dpkg -i libopenni2-dev_2.2.0.33+dfsg-4_amd64.deb
-
-------------------------------------------------
+Note: 
+a. make sure to use '-j1' when building in ARM platform
+b. if you failed to open the camera device with permission reason,
+copy the usb rules 
+   $sudo cp binary/primesense-usb.rules /etc/udev/rules.d/
