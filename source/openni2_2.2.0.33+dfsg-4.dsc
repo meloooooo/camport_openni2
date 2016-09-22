@@ -17,10 +17,10 @@ Package-List:
  openni2-utils deb utils optional
 Checksums-Sha1: 
  94463b19173dac42cec08fdc41a020a6f390bf7b 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- 0184b47cf6c2901eebf35cf084fac65bcbc05cff 32816 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ 768b32e458bed8ef2dc6ce5f3fce55d75fcd35e9 36340 openni2_2.2.0.33+dfsg-4.debian.tar.xz
 Checksums-Sha256: 
  abc17f5e30d6799200c69a52d34aefaef4fd567be7921e0cb68cae353ac4495a 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- 332b5e2304db3dc0b87ff7e59f55ecfc9dbdb80398d197ce40e095187daed60c 32816 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ 273fe20e6ad380f82595aa0c22d37e48dbec54ad159d47115828b2acaa697310 36340 openni2_2.2.0.33+dfsg-4.debian.tar.xz
 Files: 
  3799d7e5bf5cedcb61b04da79544d9e8 8604362 openni2_2.2.0.33+dfsg.orig.tar.gz
- 8860fbf6b7ad731b60c31da0026e261e 32816 openni2_2.2.0.33+dfsg-4.debian.tar.xz
+ 6859be97492147cbef0bb44153b70355 36340 openni2_2.2.0.33+dfsg-4.debian.tar.xz
